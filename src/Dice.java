@@ -31,7 +31,7 @@ public class Dice {
 	
 	public Dice()
 	{
-		this(6);
+		this(1434);
 	}
 	
 	public int throwDice()
